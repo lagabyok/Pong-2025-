@@ -1,12 +1,5 @@
-<h1 style="color: red; display: inline;">P</h1>
-<h1 style="color: orange; display: inline;">O</h1>
-<h1 style="color: yellow; display: inline;">N</h1>
-<h1 style="color: green; display: inline;">G</h1>
-<h1 style="color: blue; display: inline;"> </h1>
-<h1 style="color: purple; display: inline;">2</h1>
-<h1 style="color: pink; display: inline;">0</h1>
-<h1 style="color: brown; display: inline;">2</h1>
-<h1 style="color: cyan; display: inline;">5</h1>
+# 🟦  P O  N  G  2  0  2  5 🟣
+
 
 
 <p>Este es un proyecto de un juego de <strong>Pong</strong> desarrollado como parte del <strong>Curso de JS Creativo</strong> de <strong>Aiko Academy</strong>. El juego es una recreación moderna del clásico Pong, donde los jugadores controlan palas para golpear una pelota de un lado al otro de la pantalla.</p>
