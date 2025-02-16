@@ -1,13 +1,13 @@
-<h1>
-  <span style="color:red">P</span>
-  <span style="color:orange">O</span>
-  <span style="color:yellow">N</span>
-  <span style="color:green">G</span> 
-  <span style="color:blue">2</span>
-  <span style="color:indigo">0</span>
-  <span style="color:violet">2</span>
-  <span style="color:purple">5</span>
-</h1>
+<h1 style="color: red; display: inline;">P</h1>
+<h1 style="color: orange; display: inline;">O</h1>
+<h1 style="color: yellow; display: inline;">N</h1>
+<h1 style="color: green; display: inline;">G</h1>
+<h1 style="color: blue; display: inline;"> </h1>
+<h1 style="color: purple; display: inline;">2</h1>
+<h1 style="color: pink; display: inline;">0</h1>
+<h1 style="color: brown; display: inline;">2</h1>
+<h1 style="color: cyan; display: inline;">5</h1>
+
 
 <p>Este es un proyecto de un juego de <strong>Pong</strong> desarrollado como parte del <strong>Curso de JS Creativo</strong> de <strong>Aiko Academy</strong>. El juego es una recreación moderna del clásico Pong, donde los jugadores controlan palas para golpear una pelota de un lado al otro de la pantalla.</p>
 
@@ -36,11 +36,11 @@
   <li>Abre el archivo <code>index.html</code> en tu navegador para comenzar a jugar.</li>
 </ol>
 
-## Captura de pantalla
+## 📸 Captura de pantalla
 
-<p>Aquí tienes una imagen del juego:</p>
+Aquí tienes una imagen del juego:
 
-<img src="pong .png"alt="Pantalla de Pong 2025" />  
+![Pantalla de Pong 2025](pong.png)
 
 ## Créditos
 
