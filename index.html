@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pong 2025</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>
+            Pong 2025 
+            <span class="pong-ball"></span> <!-- Pelota al lado del título -->
+        </h1>
+        <div class="score-container">
+            <span class="score">PLAYER 1: <span id="score1">0</span> - PLAYER 2: <span id="score2">0</span></span>
+        </div>
+        <canvas id="my-canvas" width="600" height="400"></canvas>
+        <div class="controls">
+            <button id="start-btn">1 Player</button>
+            <button id="start-2p-btn">2 Players</button>
+            <button id="pause-btn">Pause</button>
+        </div>
+    </div>
+
+    <!-- Carga audios en HTML -->
+     <audio id="paddleHitSound" src="sounds/474965__nil333__button-click-sound-or-ping-pong-ball-sound.wav"></audio>
+     <audio id="goalSound" src="sounds/372209__original_sound__confirmation-ascending-1.mp3"></audio>
+
+    <script src="js/drawing.js"></script>
+    <script src="js/ball.js"></script>
+    <script src="js/paddle.js"></script>
+    <script src="js/pong.js"></script>
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>
